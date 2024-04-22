@@ -9,7 +9,7 @@ spec:
   enableMetrics: true
   license:
     accept: true
-    license: L-APEH-CJUCNR
+    license: L-AWVV-J3WMK6
     use: AppConnectEnterpriseNonProductionFREE
   pod:
     containers:
@@ -34,7 +34,7 @@ spec:
   createDashboardUsers: true
   service:
     endpointType: http
-  version: 12.0.8.0-r1
+  version: 12.0.8.0-r3
   logFormat: basic
   replicas: 1
   barURL: replace-With-Bar-URL
