@@ -10,7 +10,7 @@ spec:
   license:
     accept: true
     license: L-APEH-CJUCNR
-    use: CloudPakForIntegrationProduction
+    use: AppConnectEnterpriseNonProductionFREE
   pod:
     containers:
       runtime:
@@ -34,7 +34,7 @@ spec:
   createDashboardUsers: true
   service:
     endpointType: http
-  version: 12.0.7
+  version: 12.0.8.0-r1
   logFormat: basic
   replicas: 1
   barURL: replace-With-Bar-URL
