@@ -22,7 +22,7 @@ spec:
       type: string
     - name: nexusUploadUserPassword
       description: The Nexus user's password
-      default: 'admin123'
+      default: 'zxcvbnm123$'
       type: string
     - name: barNameWithoutExtension
       description: The name of the bar file (without .bar extension) which was previously generated - it will be available under the same name-version on Nexus

@@ -34,7 +34,7 @@ spec:
       type: string
     - name: nexus-server-base-url
       description: The Base URL of the Nexus server where the bar file will be uploaded
-      default: http://nexus.apps-crc.testing/
+      default: http://nexus.apps-crc.testing
       type: string
     - name: nexus-repository-name
       description: The name of the Nexus repository, where the bar file will be uploaded
