@@ -6,11 +6,11 @@ spec:
   params:
     - name: nexusServerBaseURL
       description: The Base URL of the Nexus server where the bar file will be uploaded
-      default: ''
+      default: 'http://nexus.apps-crc.testing'
       type: string
     - name: nexusRepositoryName
       description: The name of the Nexus repository, where the bar file will be uploaded
-      default: ''
+      default: 'app-connect'
       type: string
     - name: nexusPath
       description: The path of the Nexus repository, where the bar file will be uploaded, for example - "org/dept"
